@@ -51,9 +51,11 @@ Learning    ▓▓▓▓▓▓▓▓▓▓ 100%
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ak445/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/ak445/" target="_blank">
+    <img src="https://img.shields.io/badge/-Follow%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" />
   </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=0A66C2&center=true&vCenter=true&width=400&lines=Let's+Connect+on+LinkedIn!;Grow+your+network+with+me+%F0%9F%92%BE" alt="Typing SVG" />
 </p>
 
 ---
