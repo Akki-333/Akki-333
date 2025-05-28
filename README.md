@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 👋 **Hey there! I'm Akki, a passionate fresher diving deep into the world of Data Analytics.**
+- 👋 **Hey there! I'm Akshay, a passionate fresher diving deep into the world of Data Analytics.**
 - 💡 **Power BI | SQL | Data Visualization | Analytical Tools**
 - 📈 **On a journey to self-track and showcase my learning progress in data analytics.**
 - 🎮 **Avid Video Gamer | Cricket & Movie Enthusiast**
