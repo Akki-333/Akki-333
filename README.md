@@ -2,7 +2,7 @@
 🎨🌈 Welcome Banner (animated GIF or SVG can be embedded from an external source if desired)
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Akki-333!;A+Tech+Enthusiast+%F0%9F%94%A5;Power+BI+%E2%9A%99%EF%B8%8F+SQL+%F0%9F%92%BB+Data+Analytics" alt="Welcome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Akshay!;A+Tech+Enthusiast+%F0%9F%94%A5;Power+BI+%E2%9A%99%EF%B8%8F+SQL+%F0%9F%92%BB+Data+Analytics" alt="Welcome!" />
 </h1>
 
 <!-- Badges and quick info -->
