@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Data%20Analytics-00A86B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tech%20Enthusiast-FF6F61?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gamer-%231e2a78?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cricket%20Fan-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Developer-2E8B57?style=for-the-badge" />
 </p>
 
 ---
