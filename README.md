@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/ak445/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=18" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/%F0%9F%94%B5%20LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
 
