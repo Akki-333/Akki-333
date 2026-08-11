@@ -15,19 +15,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Gamer-1e2a78?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
-<p align="center">
-  <a href="https://portfolio-by-akshay.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/ak445/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:akkies445@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 ---
 
 ## 🚀 About Me
