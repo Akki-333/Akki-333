@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://portfolio-by-akshay.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
   <a href="https://www.linkedin.com/in/ak445/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
