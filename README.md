@@ -7,13 +7,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Development-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20%7C%20RAG-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gamer-1e2a78?style=for-the-badge&logo=steam&logoColor=white" />
+  <a href="https://portfolio-by-akshay.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ak445/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Development-2E8B57?style=for-the-badge" alt="Software Development" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack Development" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LLM%20%7C%20RAG-FF6F61?style=for-the-badge" alt="LLM RAG" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Gamer-1e2a78?style=for-the-badge&logo=steam&logoColor=white" alt="Gamer" />
 </p>
 
 ---
